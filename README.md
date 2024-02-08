@@ -6,6 +6,6 @@ In addition to my GitHub, you can check out:
 - [My personal website/blog](http://www.kylegiddon.com)
 - [My LinkedIn profile](https://www.linkedin.com/in/kyle-giddon/)
 
-I created [Chess Stamps](https://chessstamps.app/), a tool to present statistics on your chess games played on Lichess and compare them to the population.
+I created [Chess Stamps](https://chessstamps.app/), a tool to present statistics on your chess games played on Lichess and compare your opening repertoire to other players.
 
 Feel free to email me at kylegiddon@gmail.com.
